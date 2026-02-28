@@ -42,7 +42,7 @@ public class SecurityConfig {
 
         config.setAllowedOrigins(List.of(
                 "http://localhost:3000",
-                "https://student-cms-baou.vercel.app"
+                "https://student-cms-omega.vercel.app/"
         ));
 
         config.setAllowedMethods(List.of(
