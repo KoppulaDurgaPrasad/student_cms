@@ -38,6 +38,22 @@ Both contributors:
 
 ---
 
+# 🔐 Demo Credentials
+
+This project uses demo accounts for testing purposes.
+
+## 👩‍🏫 Faculty Login
+Email: Faculty1@gmail.com  
+Password: FAC@1234
+
+## 👨‍🎓 Student Login
+Email: Student1@gmail.com  
+Password: 2026AB01  
+
+> Note: These are dummy accounts created for demonstration only. No real Gmail verification is required.
+
+---
+
 # 🛠️ Tech Stack
 
 ## 🔹 Frontend
